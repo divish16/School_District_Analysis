@@ -4,12 +4,10 @@
 ## Results
 #### - How is the district summary affected?
 ####   The only difference between the old analysis and the new analysis is how the math average decreased by 0.1% in the new analysis.
-#### ![Original Data](https://ibb.co/fkQCH6y) 
-#### ![New Data](https://ibb.co/R7PBMFh)
+#### ![Original Data](https://ibb.co/fkQCH6y)![New Data](https://ibb.co/R7PBMFh)
 #### - How is the school summary affected?
 ####   There is a decrease in math and reading scores for Thomas High School in the new analysis. 
-#### ![Original Data](https://ibb.co/tMDhTpv) 
-#### ![New Data](https://ibb.co/B4r958S)
+#### ![Original Data](https://ibb.co/tMDhTpv)![New Data](https://ibb.co/B4r958S)
 #### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ####   Thomas High School does worse when 9th grade scores are dropped from the original data. 
 #### - How does replacing the ninth-grade scores affect the following:
